@@ -46,4 +46,10 @@ The preloaded library is seeded only on first launch. It is not restored on rein
 Version
 See the Releases tab for the full version history.
 
+Licence
+Copyright (C) 2026 Riccardo Nessi
+Rack Designer is free software, released under the GNU Affero General Public License, version 3 or (at your option) any later version (AGPL-3.0-or-later).
+This program comes with ABSOLUTELY NO WARRANTY; see sections 15 and 16 of the licence.
+Source code: https://github.com/Stage-Tools/rackdesigner-src
+
 Made by Riccardo Nessi — Stage Tools
